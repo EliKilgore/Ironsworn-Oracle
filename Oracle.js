@@ -25,7 +25,7 @@ const roleList = ['criminal', 'healer', 'bandit', 'guide', 'performer', 'miner',
 const goalList = ['obtain an object', 'make an agreement', 'build a relationship', 'undermine a relationship', 'seek truth', 
 'pay a debt', 'refute a falsehood', 'harm a rival', 'cure an ill', 'find a person', 'find a home', 'seize power', 
 'restore a relationship', 'create an item', 'travel to a place', 'secure provisions', 'rebel against power', 
-'collect a debt', 'protect a secret', 'protect a secret', 'spread faith', 'enrich themself', 'protect a person', 
+'collect a debt', 'protect a secret', 'spread faith', 'enrich themself', 'protect a person', 
 'protect the status quo', 'advance their status', 'defend a place', 'avenge a wrong', 'fulfill a duty', 'gain knowledge', 
 'prove their worthiness', 'find redemption', 'escape from something', 'resolve a dispute'];
 
