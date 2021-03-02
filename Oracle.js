@@ -27,7 +27,7 @@ const goalList = ['obtain an object', 'make an agreement', 'build a relationship
 'restore a relationship', 'create an item', 'travel to a place', 'secure provisions', 'rebel against power', 
 'collect a debt', 'protect a secret', 'protect a secret', 'spread faith', 'enrich themself', 'protect a person', 
 'protect the status quo', 'advance their status', 'defend a place', 'avenge a wrong', 'fulfill a duty', 'gain knowledge', 
-'prove my worthiness', 'find redemption', 'escape from something', 'resolve a dispute'];
+'prove their worthiness', 'find redemption', 'escape from something', 'resolve a dispute'];
 
 // This returns a random value from the given array
 let getRandomValue = (array) => {
