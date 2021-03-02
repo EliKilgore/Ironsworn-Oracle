@@ -42,7 +42,9 @@ let CharacterOracle = () => {
     let descriptor2 = getRandomValue(characterDescriptorList)
     let role = getRandomValue(roleList)
     let goal = getRandomValue(goalList)
-
+    if (descriptor1 === descriptor2) {
+        descriptor2 = getRandomValue(characterDescriptorList)
+    }
     let identity = `${name} is a ${descriptor1}, and ${descriptor2} ${role} who wants to ${goal}.`
     console.log(identity)
 };
