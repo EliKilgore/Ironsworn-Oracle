@@ -1,4 +1,8 @@
-Hi
-This is a simple program I am testing to automate the oracle tables from the Ironsworn tabletop roleplaying game by Shawn Tomkin. 
+# Ironsworn-Oracle
 
-My first goal was to build a character oracle that would generate a single character with a name, two descriptors, a role, and a goal. If this works well, I intend to add additional functionality to make the character more or less complicated.
+Hi, I'm still learning the ins and outs of Javascript, so to help me learn I decided to build a simple program to automate the oracle tables for the Ironsworn tabletop roleplaying
+game by Shawn Tomkin. 
+
+The first oracle will generate an NPC character with a name, two descriptors, a role and a goal. 
+
+I plan on adding oracles to generate regions, settlements, and delve sites.
