@@ -3,8 +3,8 @@
 A simple tool for use in your tabletop games to generate random elements using the Oracle tables from Ironsworn ttrpg by Shawn Tomkin.
 
 ## Table of Contents
-* [General info] (#general-info)
-* [Technologies] (#technologies)
+* [General info](#general-info)
+* [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
